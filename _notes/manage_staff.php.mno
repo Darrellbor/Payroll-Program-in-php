@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_totals" value="name:salary;datatype:string,name:allowances;datatype:string,name:deductions;datatype:string,name:net_pay;datatype:string" />
+</info>

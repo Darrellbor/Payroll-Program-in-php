@@ -1,0 +1,43 @@
+#header {
+	padding: 20px;
+	text-align: center;
+	background-image: url(images/30th_anniversarys__.png);
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+}
+body {
+
+}
+
+#content {
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 20px;
+
+}
+.errormessage {
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+	color: #F00;
+	border: 2px solid #f33;
+	background-color: #fdd;
+	font-weight: bold;
+}
+.sucessmessage {
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 20px;
+	color: #093;
+	border: 2px solid #161;
+	background-color: #bfb;
+	font-weight: bold;
+}
+.tableheading {
+	text-align: center;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #000;
+}
